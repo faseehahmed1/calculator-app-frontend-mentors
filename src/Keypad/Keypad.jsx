@@ -4,11 +4,6 @@ import KEYPAD from "../DATA.js";
 import { evaluate } from "mathjs";
 
 export default function Keypad({ setDisplayText, displayText }) {
-  try {
-    console.log(evaluate("5*"));
-  } catch (error) {
-    console.error("error");
-  }
 
   function handleUserInput(value) {
     if (value === "RESET") {

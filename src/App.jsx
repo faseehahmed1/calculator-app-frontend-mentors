@@ -6,7 +6,6 @@ import {useState} from 'react'
 
 function App() {
   const [displayText, setDisplayText] = useState("")
-  console.log(displayText)
 
   return (
     <div className={classes.container}>
