@@ -1,0 +1,16 @@
+.display_container{
+    background-color: var(--screen-bg);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 25px 25px;
+    border-radius: 8px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    min-height: 83px;
+}
+
+.display_container p {
+    font-size: 36px;
+    color: var(--primary);
+}

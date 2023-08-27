@@ -37,7 +37,7 @@ The designs were created to the following widths:
 
 #### Backgrounds
 
-- Light gray (main background): hsl(0, 0%, 90%)
+- Light gray (main background): hsl(0, 0%, 90%)✅
 - Grayish red (toggle background, keypad background): hsl(0, 5%, 81%)
 - Very light gray (screen background): hsl(0, 0%, 93%)
 

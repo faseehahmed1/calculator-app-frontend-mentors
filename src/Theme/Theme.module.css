@@ -1,0 +1,31 @@
+.theme_container{
+    color: var(--primary);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.toggle_container{
+    display: flex;
+    align-items: flex-end;
+    gap: 15px;
+}
+
+.toggle{
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr 1fr;
+    justify-items: center;
+    row-gap: 6px;
+}
+
+.span_2{
+    grid-column: span 1;
+    justify-self: center;
+    align-self: center;
+    margin-right: 15px;
+    font-size: 12px;
+}
+
+.span_3{
+    grid-column: span 3;
+}
