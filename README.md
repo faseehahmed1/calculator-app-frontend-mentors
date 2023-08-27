@@ -16,7 +16,7 @@ Functionality of the app:
 
 ## ✨ Deployed Site ✨
 
-https://you-link-here.netlify.app/
+https://faseehahmed1.github.io/calculator-app-frontend-mentors/
 
 
 ## What I learned
