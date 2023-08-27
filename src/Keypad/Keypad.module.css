@@ -4,7 +4,7 @@
     border-radius: 8px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 15px;
+    gap: 10px;
 }
 
 .btn {
@@ -21,8 +21,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 65px;
-    min-width: 65px;
+    min-height: 55px;
+    min-width: 55px;
     &:active{
         transform: scale(0.95);
         box-shadow: 
